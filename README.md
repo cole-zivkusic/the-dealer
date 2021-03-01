@@ -6,6 +6,14 @@ A simple version of the popular casino game "blackjack" for use in discord text 
 
 click [me](https://discord.com/api/oauth2/authorize?client_id=774878549629861888&permissions=8&scope=bot) to invite The Dealer to your Discord server!
 
+## Screenshots
+
+*Multiplayer*</br>
+</br>
+<img src="/images/multi1.png" width="275" height="275"></br>
+<img src="/images/multi2.png" width="275" height="275"></br>
+<img src="/images/multi3.png" width="275" height="275">
+
 ## Usage
 
 ```
