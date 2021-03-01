@@ -10,7 +10,7 @@ click [me](https://discord.com/api/oauth2/authorize?client_id=774878549629861888
 
 ```
 1) Invite the bot to your server
-2) Type the command $blackjack into a text channel followed by the discord names of the players involved (max. 6)
+2) Type the command $blackjack into a text channel followed by the discord names of the players
 3) Play the game by following the bots prompts
 If you need help, use the command $info for further instructions
 ```
