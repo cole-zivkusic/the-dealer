@@ -1,4 +1,4 @@
-# The Dealer ![The Dealer Logo](/images/The Dealer V1.png)
+# The Dealer ![The Dealer Logo](/images/dealerpfp.png)
 
 A simple version of the popular casino game "blackjack" for use in discord text channels, with support for both solo & multiplayer games.
 
